@@ -22,6 +22,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/git-0f2f4f.svg?style=for-the-badge&logo=git&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/github-599468.svg?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/VSCode-C81D8C.svg?style=for-the-badge" />
 
 </div>
 <!--
