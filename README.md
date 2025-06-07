@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0af7924f-dc71-48b8-8f32-051b6a5a51a4)<h2 align="center">💡 성장하는 개발자 💡</h2>
+<h2 align="center">💡 성장하는 개발자 💡</h2>
 
 <h3 align="center">🙋‍♀️ Introduce 🙋‍♀️</h3>
 <div align="center">
