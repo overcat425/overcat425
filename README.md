@@ -1,4 +1,4 @@
-<h2 align="center">💡 성장하는 개발자 💡</h2>
+![image](https://github.com/user-attachments/assets/0af7924f-dc71-48b8-8f32-051b6a5a51a4)<h2 align="center">💡 성장하는 개발자 💡</h2>
 
 <h3 align="center">🙋‍♀️ Introduce 🙋‍♀️</h3>
 <div align="center">
@@ -6,7 +6,7 @@
 ● 매 프로젝트마다 최소 하나 이상의 새로운 기술을 적용하려 노력합니다.<br>
 ● 책임감을 가지고 맡은 역할을 반드시 완수하려 노력합니다.<br>
 ● 실패를 두려워하지 않고, 오히려 발판 삼아 더 큰 성공을 거두려 노력합니다.<br>
-  <br>  
+  <br>    <br>  
 </div>
 
 <br>
